@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats : 
-https://github-readme-streak-stats.herokuapp.com/?user=pavlovsvpavel
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavlovsvpavel&theme=burnt-neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

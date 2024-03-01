@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavlovsvpavel&theme=neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgres)](https://skillicons.dev)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlovsvpavel&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavlovsvpavel&theme=neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 

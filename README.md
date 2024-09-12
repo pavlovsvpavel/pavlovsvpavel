@@ -1,6 +1,7 @@
 ### Hi there, I'm Pavel 👋
 
-- 🌱 I’m currently learning Python at [SoftUni](https://about.softuni.bg/)
+- Highly motivated Python Developer with a passion for creating innovative solutions.
+- Skilled in developing and deploying Python-based web applications.
 
 ---
 
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgres,aws,gcp,azure,terraform)](https://skillicons.dev)
 
 ---
 

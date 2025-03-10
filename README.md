@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlovsvpavel&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavlovsvpavel&theme=neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-
-

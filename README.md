@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgres,aws,gcp,azure,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgres,docker,aws,gcp,azure,terraform)](https://skillicons.dev)
 
 ---
 

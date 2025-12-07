@@ -1,7 +1,7 @@
 ### Hi there, I'm Pavel 👋
 
 - Highly motivated Python Developer with a passion for creating innovative solutions.
-- Skilled in developing and deploying Python-based web applications.
+- I specialize in creating robust back-end systems and dynamic web applications using Python, Django, FastAPI and modern cloud technologies.
 
 ---
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,postgres,docker,aws,gcp,azure,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,postgres,docker,aws,gcp,azure,terraform)](https://skillicons.dev)
 
 ---
 
